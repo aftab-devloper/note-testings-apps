@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`NoteCard Component snapshot match hota hai 1`] = `
+<div>
+  <div
+    data-testid="note-card"
+  >
+    <h2
+      data-testid="note-title"
+    >
+      Mera Note
+    </h2>
+    <p
+      data-testid="note-content"
+    >
+      Yeh content hai
+    </p>
+  </div>
+</div>
+`;
